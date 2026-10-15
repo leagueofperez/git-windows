@@ -1,0 +1,14 @@
+**/.gnupg/
+**/.gpg/
+**/.ssh/
+**/*.env
+**/*.gpg
+**/gnupg/
+**/gpg/
+**/id_ed25519
+**/id_ed25519.pub
+**/id_rsa
+**/id_rsa.pub
+**/ssh/
+perez/
+sergiogj/
